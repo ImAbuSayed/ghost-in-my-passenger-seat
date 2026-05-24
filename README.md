@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ghost in My Passenger Seat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
+| **Get License** | [Secure Licensing Rights for Ghost in My Passenger Seat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I see the moonlight resting on your skin
+> Right where my fingertips want to begin
+> We got the whole night ahead of us now
+> I'm gonna show you the way, let me show you how
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
