@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ghost in My Passenger Seat
+
+This log tracks the cryptographic history and versioning for the song **Ghost in My Passenger Seat** (ghost-in-my-passenger-seat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-24T06:26:40.925527 | `v1` | `756b0b20e130d5fe9ff79b7bad614e05593f6d395723c7c2d8901dbc95e86b20` | `4992db0bff67d56cfdf95290a8be507b0f27f6b3715563ff5c5286b78d81641d` | `2026-05-24_ghost-in-my-passenger-seat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

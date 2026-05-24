@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Ghost in My Passenger Seat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
+| **Get License** | [Music Rights & Licensing for Ghost in My Passenger Seat](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ghost-in-my-passenger-seat/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `756b0b20e130d5fe9ff79b7bad614e05593f6d395723c7c2d8901dbc95e86b20` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
